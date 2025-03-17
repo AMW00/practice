@@ -8,3 +8,5 @@ console.log("666")
 
 
 console.log("88888")
+
+console.log("10000")
